@@ -1,1 +1,2 @@
-sql-data-analysis
+queries.sql
+README.md
