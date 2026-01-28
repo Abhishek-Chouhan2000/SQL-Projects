@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,signup_date,region_id,acquisition_channel
+1,Name1,Surname1,user1@example.com,2023-04-13,7,Google Ads
+2,Name2,Surname2,user2@example.com,2024-03-11,4,Email
+3,Name3,Surname3,user3@example.com,2023-12-15,7,Facebook
+4,Name4,Surname4,user4@example.com,2023-09-28,3,Organic
+5,Name5,Surname5,user5@example.com,2023-04-17,6,Email
+6,Name6,Surname6,user6@example.com,2023-03-13,2,Google Ads
+7,Name7,Surname7,user7@example.com,2023-07-08,10,Facebook
+8,Name8,Surname8,user8@example.com,2023-01-21,9,Email
+9,Name9,Surname9,user9@example.com,2023-04-13,5,Facebook
+10,Name10,Surname10,user10@example.com,2023-05-02,6,Email
+11,Name11,Surname11,user11@example.com,2024-04-11,4,Facebook
+12,Name12,Surname12,user12@example.com,2023-08-03,10,Google Ads
+13,Name13,Surname13,user13@example.com,2023-11-27,7,Organic
+14,Name14,Surname14,user14@example.com,2024-04-03,9,Google Ads
+15,Name15,Surname15,user15@example.com,2023-03-29,7,Organic
+16,Name16,Surname16,user16@example.com,2024-01-08,1,Facebook
+17,Name17,Surname17,user17@example.com,2023-04-10,1,Email
+18,Name18,Surname18,user18@example.com,2023-12-26,9,Google Ads
+19,Name19,Surname19,user19@example.com,2023-06-01,9,Organic
+20,Name20,Surname20,user20@example.com,2023-05-11,4,Google Ads
+21,Name21,Surname21,user21@example.com,2023-05-30,9,Organic
+22,Name22,Surname22,user22@example.com,2023-11-05,3,Google Ads
+23,Name23,Surname23,user23@example.com,2023-09-15,7,Organic
+24,Name24,Surname24,user24@example.com,2023-12-10,6,Organic
+25,Name25,Surname25,user25@example.com,2024-05-06,8,Facebook
+26,Name26,Surname26,user26@example.com,2024-02-18,9,Organic
+27,Name27,Surname27,user27@example.com,2023-10-21,5,Facebook
+28,Name28,Surname28,user28@example.com,2024-01-21,1,Organic
+29,Name29,Surname29,user29@example.com,2023-07-11,3,Email
+30,Name30,Surname30,user30@example.com,2024-03-19,10,Email
+31,Name31,Surname31,user31@example.com,2023-10-04,8,Email
+32,Name32,Surname32,user32@example.com,2023-06-10,6,Organic
+33,Name33,Surname33,user33@example.com,2024-04-04,8,Facebook
+34,Name34,Surname34,user34@example.com,2023-11-10,9,Facebook
+35,Name35,Surname35,user35@example.com,2023-01-22,4,Organic
+36,Name36,Surname36,user36@example.com,2023-09-10,1,Email
+37,Name37,Surname37,user37@example.com,2023-08-24,1,Email
+38,Name38,Surname38,user38@example.com,2023-12-11,10,Facebook
+39,Name39,Surname39,user39@example.com,2023-02-18,4,Email
+40,Name40,Surname40,user40@example.com,2024-04-19,7,Google Ads
+41,Name41,Surname41,user41@example.com,2023-02-28,2,Facebook
+42,Name42,Surname42,user42@example.com,2023-06-19,3,Email
+43,Name43,Surname43,user43@example.com,2024-04-20,1,Facebook
+44,Name44,Surname44,user44@example.com,2023-07-07,5,Google Ads
+45,Name45,Surname45,user45@example.com,2024-04-08,1,Facebook
+46,Name46,Surname46,user46@example.com,2023-09-28,8,Facebook
+47,Name47,Surname47,user47@example.com,2023-07-09,1,Facebook
+48,Name48,Surname48,user48@example.com,2024-03-21,1,Facebook
+49,Name49,Surname49,user49@example.com,2023-06-24,2,Google Ads
+50,Name50,Surname50,user50@example.com,2024-03-21,2,Organic
+51,Name51,Surname51,user51@example.com,2023-02-20,6,Facebook
+52,Name52,Surname52,user52@example.com,2023-12-30,7,Facebook
+53,Name53,Surname53,user53@example.com,2023-02-24,5,Email
+54,Name54,Surname54,user54@example.com,2023-09-01,1,Facebook
+55,Name55,Surname55,user55@example.com,2023-11-16,1,Email
+56,Name56,Surname56,user56@example.com,2023-05-11,3,Organic
+57,Name57,Surname57,user57@example.com,2024-04-29,2,Google Ads
+58,Name58,Surname58,user58@example.com,2023-11-03,5,Google Ads
+59,Name59,Surname59,user59@example.com,2023-05-15,10,Organic
+60,Name60,Surname60,user60@example.com,2023-01-21,6,Google Ads
+61,Name61,Surname61,user61@example.com,2023-11-25,7,Organic
+62,Name62,Surname62,user62@example.com,2023-06-16,4,Organic
+63,Name63,Surname63,user63@example.com,2023-10-01,7,Organic
+64,Name64,Surname64,user64@example.com,2024-01-23,8,Google Ads
+65,Name65,Surname65,user65@example.com,2023-03-30,1,Email
+66,Name66,Surname66,user66@example.com,2023-11-12,6,Organic
+67,Name67,Surname67,user67@example.com,2023-01-14,8,Facebook
+68,Name68,Surname68,user68@example.com,2023-08-30,5,Google Ads
+69,Name69,Surname69,user69@example.com,2023-09-22,4,Organic
+70,Name70,Surname70,user70@example.com,2023-12-12,2,Organic
+71,Name71,Surname71,user71@example.com,2023-02-22,6,Facebook
+72,Name72,Surname72,user72@example.com,2024-01-21,6,Email
+73,Name73,Surname73,user73@example.com,2023-12-06,1,Email
+74,Name74,Surname74,user74@example.com,2023-04-02,9,Email
+75,Name75,Surname75,user75@example.com,2024-01-02,6,Organic
+76,Name76,Surname76,user76@example.com,2024-03-19,3,Organic
+77,Name77,Surname77,user77@example.com,2024-03-30,4,Organic
+78,Name78,Surname78,user78@example.com,2024-03-03,4,Google Ads
+79,Name79,Surname79,user79@example.com,2023-09-21,3,Facebook
+80,Name80,Surname80,user80@example.com,2024-03-06,10,Organic
+81,Name81,Surname81,user81@example.com,2023-02-04,3,Facebook
+82,Name82,Surname82,user82@example.com,2023-07-25,3,Facebook
+83,Name83,Surname83,user83@example.com,2023-03-22,4,Email
+84,Name84,Surname84,user84@example.com,2024-02-24,7,Google Ads
+85,Name85,Surname85,user85@example.com,2023-02-19,4,Organic
+86,Name86,Surname86,user86@example.com,2023-12-26,9,Email
+87,Name87,Surname87,user87@example.com,2024-01-23,1,Email
+88,Name88,Surname88,user88@example.com,2023-01-02,8,Organic
+89,Name89,Surname89,user89@example.com,2024-01-25,7,Facebook
+90,Name90,Surname90,user90@example.com,2023-02-23,2,Email
+91,Name91,Surname91,user91@example.com,2023-04-16,8,Facebook
+92,Name92,Surname92,user92@example.com,2023-09-17,1,Google Ads
+93,Name93,Surname93,user93@example.com,2023-11-06,9,Facebook
+94,Name94,Surname94,user94@example.com,2024-04-21,9,Google Ads
+95,Name95,Surname95,user95@example.com,2023-07-10,2,Facebook
+96,Name96,Surname96,user96@example.com,2024-02-06,7,Email
+97,Name97,Surname97,user97@example.com,2023-08-06,10,Email
+98,Name98,Surname98,user98@example.com,2023-02-13,3,Google Ads
+99,Name99,Surname99,user99@example.com,2023-06-11,7,Organic
+100,Name100,Surname100,user100@example.com,2023-07-21,10,Google Ads
+101,Name101,Surname101,user101@example.com,2024-03-21,9,Google Ads
+102,Name102,Surname102,user102@example.com,2024-04-28,4,Facebook
+103,Name103,Surname103,user103@example.com,2023-09-27,1,Facebook
+104,Name104,Surname104,user104@example.com,2023-12-17,2,Google Ads
+105,Name105,Surname105,user105@example.com,2023-10-31,1,Email
+106,Name106,Surname106,user106@example.com,2023-09-28,5,Facebook
+107,Name107,Surname107,user107@example.com,2024-03-31,5,Organic
+108,Name108,Surname108,user108@example.com,2024-04-06,7,Facebook
+109,Name109,Surname109,user109@example.com,2023-08-03,9,Facebook
+110,Name110,Surname110,user110@example.com,2023-09-09,9,Organic
+111,Name111,Surname111,user111@example.com,2023-07-09,3,Google Ads
+112,Name112,Surname112,user112@example.com,2023-10-23,3,Organic
+113,Name113,Surname113,user113@example.com,2023-08-01,3,Google Ads
+114,Name114,Surname114,user114@example.com,2023-07-27,4,Google Ads
+115,Name115,Surname115,user115@example.com,2023-08-25,8,Google Ads
+116,Name116,Surname116,user116@example.com,2023-12-04,6,Organic
+117,Name117,Surname117,user117@example.com,2024-01-02,8,Google Ads
+118,Name118,Surname118,user118@example.com,2023-02-22,1,Email
+119,Name119,Surname119,user119@example.com,2023-10-07,8,Organic
+120,Name120,Surname120,user120@example.com,2024-02-14,4,Email
+121,Name121,Surname121,user121@example.com,2023-08-05,1,Google Ads
+122,Name122,Surname122,user122@example.com,2023-09-09,8,Facebook
+123,Name123,Surname123,user123@example.com,2023-07-07,4,Google Ads
+124,Name124,Surname124,user124@example.com,2024-01-15,6,Email
+125,Name125,Surname125,user125@example.com,2024-05-07,8,Email
+126,Name126,Surname126,user126@example.com,2023-02-10,4,Organic
+127,Name127,Surname127,user127@example.com,2023-06-06,3,Facebook
+128,Name128,Surname128,user128@example.com,2023-01-15,9,Organic
+129,Name129,Surname129,user129@example.com,2023-10-28,3,Email
+130,Name130,Surname130,user130@example.com,2023-03-06,9,Google Ads
+131,Name131,Surname131,user131@example.com,2023-12-11,2,Facebook
+132,Name132,Surname132,user132@example.com,2023-11-23,2,Google Ads
+133,Name133,Surname133,user133@example.com,2023-01-09,2,Google Ads
+134,Name134,Surname134,user134@example.com,2023-12-10,6,Facebook
+135,Name135,Surname135,user135@example.com,2023-05-09,3,Organic
+136,Name136,Surname136,user136@example.com,2024-05-06,9,Google Ads
+137,Name137,Surname137,user137@example.com,2023-05-16,4,Email
+138,Name138,Surname138,user138@example.com,2024-04-16,1,Google Ads
+139,Name139,Surname139,user139@example.com,2023-03-04,4,Facebook
+140,Name140,Surname140,user140@example.com,2023-05-19,1,Facebook
+141,Name141,Surname141,user141@example.com,2024-05-13,5,Facebook
+142,Name142,Surname142,user142@example.com,2023-03-22,4,Organic
+143,Name143,Surname143,user143@example.com,2024-01-27,8,Google Ads
+144,Name144,Surname144,user144@example.com,2023-06-12,8,Organic
+145,Name145,Surname145,user145@example.com,2024-02-23,7,Organic
+146,Name146,Surname146,user146@example.com,2023-10-16,3,Facebook
+147,Name147,Surname147,user147@example.com,2024-01-14,1,Facebook
+148,Name148,Surname148,user148@example.com,2023-09-18,1,Organic
+149,Name149,Surname149,user149@example.com,2024-05-04,3,Google Ads
+150,Name150,Surname150,user150@example.com,2023-08-19,6,Email
+151,Name151,Surname151,user151@example.com,2023-02-10,7,Organic
+152,Name152,Surname152,user152@example.com,2023-01-28,6,Google Ads
+153,Name153,Surname153,user153@example.com,2023-05-15,6,Facebook
+154,Name154,Surname154,user154@example.com,2023-07-20,6,Facebook
+155,Name155,Surname155,user155@example.com,2023-11-24,3,Google Ads
+156,Name156,Surname156,user156@example.com,2023-09-25,6,Email
+157,Name157,Surname157,user157@example.com,2024-02-22,8,Facebook
+158,Name158,Surname158,user158@example.com,2023-02-02,2,Facebook
+159,Name159,Surname159,user159@example.com,2023-02-17,5,Facebook
+160,Name160,Surname160,user160@example.com,2024-02-11,1,Google Ads
+161,Name161,Surname161,user161@example.com,2023-03-03,1,Organic
+162,Name162,Surname162,user162@example.com,2023-08-04,5,Facebook
+163,Name163,Surname163,user163@example.com,2023-10-20,3,Organic
+164,Name164,Surname164,user164@example.com,2023-04-09,4,Email
+165,Name165,Surname165,user165@example.com,2023-06-21,3,Facebook
+166,Name166,Surname166,user166@example.com,2023-12-26,1,Facebook
+167,Name167,Surname167,user167@example.com,2023-08-02,1,Email
+168,Name168,Surname168,user168@example.com,2024-04-19,5,Facebook
+169,Name169,Surname169,user169@example.com,2023-02-04,6,Organic
+170,Name170,Surname170,user170@example.com,2024-03-24,3,Google Ads
+171,Name171,Surname171,user171@example.com,2023-08-15,9,Organic
+172,Name172,Surname172,user172@example.com,2023-04-11,5,Google Ads
+173,Name173,Surname173,user173@example.com,2024-03-06,8,Google Ads
+174,Name174,Surname174,user174@example.com,2024-04-06,1,Organic
+175,Name175,Surname175,user175@example.com,2023-05-11,5,Organic
+176,Name176,Surname176,user176@example.com,2023-09-14,3,Organic
+177,Name177,Surname177,user177@example.com,2023-01-05,1,Organic
+178,Name178,Surname178,user178@example.com,2023-08-06,4,Email
+179,Name179,Surname179,user179@example.com,2023-09-12,5,Facebook
+180,Name180,Surname180,user180@example.com,2024-02-02,7,Google Ads
+181,Name181,Surname181,user181@example.com,2023-12-25,1,Organic
+182,Name182,Surname182,user182@example.com,2023-10-10,3,Organic
+183,Name183,Surname183,user183@example.com,2024-01-28,2,Organic
+184,Name184,Surname184,user184@example.com,2023-07-26,9,Email
+185,Name185,Surname185,user185@example.com,2023-01-15,10,Organic
+186,Name186,Surname186,user186@example.com,2023-12-12,6,Organic
+187,Name187,Surname187,user187@example.com,2023-02-11,10,Organic
+188,Name188,Surname188,user188@example.com,2024-01-15,3,Facebook
+189,Name189,Surname189,user189@example.com,2024-04-05,8,Email
+190,Name190,Surname190,user190@example.com,2023-06-28,8,Organic
+191,Name191,Surname191,user191@example.com,2023-03-04,2,Google Ads
+192,Name192,Surname192,user192@example.com,2023-12-18,6,Google Ads
+193,Name193,Surname193,user193@example.com,2023-08-19,7,Google Ads
+194,Name194,Surname194,user194@example.com,2023-08-29,2,Email
+195,Name195,Surname195,user195@example.com,2023-02-21,10,Email
+196,Name196,Surname196,user196@example.com,2023-04-06,2,Google Ads
+197,Name197,Surname197,user197@example.com,2024-01-23,10,Organic
+198,Name198,Surname198,user198@example.com,2023-08-10,1,Email
+199,Name199,Surname199,user199@example.com,2024-04-29,8,Google Ads
+200,Name200,Surname200,user200@example.com,2024-02-11,1,Google Ads
